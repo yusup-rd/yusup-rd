@@ -32,17 +32,24 @@ I'm a **Software Engineer** passionate about building scalable web applications 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ## 📊 GitHub Stats:
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yusup-rd&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=yusup-rd&show_icons=true&include_all_commits=true&theme=monokai)<br/>
+![](https://streak-stats.demolab.com/?user=yusup-rd&theme=monokai&hide_border=false)<br/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yusup-rd&layout=donut&langs_count=5&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=yusup-rd&layout=donut&langs_count=5&theme=monokai)
+<!--
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=yusup-rd&theme=monokai&hide_border=false&include_all_commits=false&count_private=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=yusup-rd&theme=monokai&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusup-rd&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=donut"/>
 </div>
+-->
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yusup-rd&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+-->
 
 ### 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusuprejepov2002@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusuprd@icloud.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusup_rejepov) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuprd) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/yusup-rd) 
