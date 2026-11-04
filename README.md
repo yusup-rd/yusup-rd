@@ -5,7 +5,7 @@ I'm a **Software Engineer** passionate about building scalable web applications 
 💡 I love learning new technologies, contributing to open source, and writing clean, efficient code.  
 📚 Currently exploring deeper into **full-stack development**, **AI**, **cloud platforms**, and **software architecture**.
 
-🌐 **Portfolio**: [yusuprd.netlify.app](https://yusuprd.netlify.app/)
+🌐 **Portfolio**: [yusuprd.com](https://yusuprd.com/)
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
