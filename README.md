@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yusup!
 
-I'm a **Software Engineer** passionate about building scalable web applications and sharing my journey in tech.  
+I'm a **Software Engineer** passionate about building scalable applications and sharing my journey in tech.  
 🎓 Graduated with a degree in **Computer Science** from **Universiti Tenaga Nasional, Malaysia**  
 💡 I love learning new technologies, contributing to open source, and writing clean, efficient code.  
 📚 Currently exploring deeper into **full-stack development**, **AI**, **cloud platforms**, and **software architecture**.
